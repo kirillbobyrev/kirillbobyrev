@@ -29,7 +29,7 @@ arts (Jiu-Jitsu and Muay Thai).
 
 ## Get in touch
 
-* Twitter: twitter.com/kirillbobyrev
-* LinkedIn: linkedin.com/in/kirillbobyreev
-* Instagram: instagram.com/cybobyrev
+* [Twitter](https://twitter.com/kirillbobyrev)
+* [LinkedIn](https://linkedin.com/in/kirillbobyrev)
+* [Instagram](https://instagram.com/cybobyrev)
 * Email: kbobyrev.opensource@gmail.com
