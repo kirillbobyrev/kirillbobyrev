@@ -1,6 +1,6 @@
 # Kirill Bobyrev
 
-[![Twitter](https://img.shields.io/twitter/follow/kirillbobyrev?style=social)](https://img.shields.io/twitter/follow/kirillbobyrev?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/kirillbobyrev?style=social)](https://twitter.com/kirillbobyrev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kirillbobyrev-blue)](https://www.linkedin.com/in/kirillbobyrev)
 [![Gmail](https://img.shields.io/badge/-kbobyrev.opensource@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kbobyrev.opensource@gmail.com)](mailto:kbobyrev.opensource@gmail.com)
