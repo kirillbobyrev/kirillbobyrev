@@ -29,3 +29,5 @@ Mathematical Optimization, the foundation of Machine Learning.
 Outside of work I enjoy reading (see latest books in my Goodreads
 [profile](https://www.goodreads.com/kirillbobyrev)), art, chess and martial
 arts (Jiu-Jitsu and Muay Thai).
+
+![](https://hit.yhype.me/github/profile?user_id=3352968)
