@@ -27,6 +27,6 @@ Russian tech university). During my time at the university I was focusing on
 Mathematical Optimization, the foundation of Machine Learning.
 
 Outside of work I enjoy reading (see latest books in my Goodreads
-[profile](https://www.goodreads.com/kirillbobyrev)), art, chess and martial
-arts (Jiu-Jitsu and Muay Thai).
+[profile](https://www.goodreads.com/kirillbobyrev)), art, chess and competetive
+programming.
 ![](https://hit.yhype.me/github/profile?user_id=3352968)
