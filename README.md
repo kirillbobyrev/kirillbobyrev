@@ -10,8 +10,8 @@ Hi, I'm Kirill — a Software Engineer at [Google](https://about.google/) workin
 on [Clangd](https://clangd.llvm.org), C++ Language Server implementation that
 helps you write better code in Visual Studio Code, Vim and other editors.  I
 specialize in Compilers and Machine Learning. C++ and Python are typically my
-languages of choice, but I enjoy writing code in Rust and Haskell.  Most of
-work is open source and in the [LLVM](https://llvm.org/) land ([my
+languages of choice, but I enjoy writing code in Rust and Haskell. I contribute
+to [LLVM](https://llvm.org/) very often ([my
 commits](https://github.com/llvm/llvm-project/commits?author=kirillbobyrev)).
 
 Before I joined Google full-time I was studying at the university and interning
