@@ -3,8 +3,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/kirillbobyrev?style=social)](https://twitter.com/kirillbobyrev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kirillbobyrev-blue)](https://www.linkedin.com/in/kirillbobyrev)
-[![Gmail](https://img.shields.io/badge/-kbobyrev.opensource@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kbobyrev.opensource@gmail.com)](mailto:kbobyrev.opensource@gmail.com)
-[![Facebook](https://img.shields.io/badge/-cybobyrev-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/cybobyrev)](https://www.facebook.com/cybobyrev)
 
 Hi, I'm Kirill — a Software Engineer at [Google](https://about.google/) working
 on [Clangd](https://clangd.llvm.org), C++ Language Server implementation that
