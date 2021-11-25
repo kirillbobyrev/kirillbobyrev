@@ -18,12 +18,6 @@ startups. While at university, I was doing Machine Learning and building
 [Handl](https://www.ycombinator.com/companies/13504), Machine Learning startup
 backed by [Y Combinator](https://www.ycombinator.com/).
 
-I graduated with a Bachelor Degree in Mathematics and Physics from [Moscow
-Institute of Physics and
-Technology](https://mipt.ru/english/about/about-mipt/) (consistently the best
-Russian tech university). During my time at the university I was focusing on
-Mathematical Optimization, the foundation of Machine Learning.
-
 Outside of work I enjoy reading (see latest books in my Goodreads
 [profile](https://www.goodreads.com/kirillbobyrev)), art, chess and competetive
 programming.
