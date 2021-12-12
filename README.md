@@ -19,6 +19,6 @@ startups. While at university, I was doing Machine Learning and building
 backed by [Y Combinator](https://www.ycombinator.com/).
 
 Outside of work I enjoy reading (see latest books in my Goodreads
-[profile](https://www.goodreads.com/kirillbobyrev)), art, chess and competetive
+[profile](https://www.goodreads.com/kirillbobyrev)), art, chess and competitive
 programming.
 ![](https://hit.yhype.me/github/profile?user_id=3352968)
