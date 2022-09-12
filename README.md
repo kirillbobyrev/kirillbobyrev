@@ -11,8 +11,7 @@ test autonomous driving systems and is critical for the safety of self-driving
 cars that we deploy. Before that I worked on [clangd](https://clangd.llvm.org)
 and Clang/LLVM at Google.
 
-Outside of work I enjoy reading (see latest books in my Goodreads
-[profile](https://www.goodreads.com/kirillbobyrev)), art, chess and competitive
+Outside of work I enjoy reading, art, chess and competitive
 programming.
 ![](https://hit.yhype.me/github/profile?user_id=3352968)
 
