@@ -13,6 +13,5 @@ cars that we deploy. Before that I worked at Google on
 
 Outside of work I enjoy reading, art, chess and competitive
 programming.
-![](https://hit.yhype.me/github/profile?user_id=3352968)
 
 My latest resume: [kirillbobyrev.com/resume.pdf](https://kirillbobyrev.com/resume.pdf)
