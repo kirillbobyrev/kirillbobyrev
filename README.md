@@ -15,4 +15,3 @@ Outside of work I enjoy reading, art, chess and competitive
 programming.
 
 My latest resume: [kirillbobyrev.com/resume.pdf](https://kirillbobyrev.com/resume.pdf)
-<a rel="me" href="https://mstdn.social/@kirillbobyrev"></a>
