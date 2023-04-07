@@ -11,7 +11,4 @@ test autonomous driving systems and is critical for the safety of self-driving
 cars that we deploy. Before that I worked at Google on
 [clangd](https://clangd.llvm.org) and Clang/LLVM.
 
-Outside of work I enjoy reading, art, chess and competitive
-programming.
-
-My latest resume: [kirillbobyrev.com/resume.pdf](https://kirillbobyrev.com/resume.pdf)
+For more, check out my personal website: [kirillbobyrev.com/about](https://kirillbobyrev.com/about).
