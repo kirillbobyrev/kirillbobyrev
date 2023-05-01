@@ -5,4 +5,4 @@ test autonomous driving systems and is critical for the safety of self-driving
 cars that we deploy. Before that I worked at Google on
 [clangd](https://clangd.llvm.org) and Clang/LLVM.
 
-For more information about, check out [kirillbobyrev.com](https://kirillbobyrev.com)
+For more information see [kirillbobyrev.com](https://kirillbobyrev.com)
